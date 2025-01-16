@@ -1,0 +1,13 @@
+ASSIGNMENT 002:
+Duration: 2 Weeks
+
+You're assigned a two-week project in which you will design and implement a motion-tracking system where a camera rotates to follow a moving object in real time. 
+
+Building on the concepts we've learned—motion detection, object tracking, and directional analysis—you will integrate software with hardware by controlling servo motors connected to a microcontroller (such as Arduino). 
+
+The system should dynamically detect the direction of motion, calculate positional offsets relative to the camera's center, and send commands to the microcontroller to adjust the camera's pan and tilt angles. Your solution should ensure smooth and precise tracking of the object, keeping it centered in the frame. 
+
+
+Additionally, you are encouraged to enhance the project with features like saving the tracked object's path, logging its motion data, or integrating IoT elements for remote monitoring. 
+
+This project will challenge you to combine computer vision, real-time processing, and hardware control to create a functional prototype often used in robotics, surveillance, and automation systems.
