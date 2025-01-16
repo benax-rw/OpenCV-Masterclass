@@ -50,7 +50,7 @@ while True:
     motion_rate_percentage = (motion_rate / (frame.shape[0] * frame.shape[1])) * 100
 
     # Only count motion if rate exceeds 10%
-    if motion_rate_percentage > 3:
+    if motion_rate_percentage > 30:
         new_motion_detected = True
 
     # If motion is newly detected, save the frame

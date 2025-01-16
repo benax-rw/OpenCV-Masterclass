@@ -1,7 +1,7 @@
 import cv2
 
 # Read the image
-image = cv2.imread("car1.jpg", cv2.IMREAD_GRAYSCALE)  # Convert to grayscale for edge detection
+image = cv2.imread("car2.jpg", cv2.IMREAD_GRAYSCALE)  # Convert to grayscale for edge detection
 
     # Apply Canny edge detection
     # In this case, we have two ranges:
