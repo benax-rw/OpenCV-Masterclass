@@ -1,0 +1,2 @@
+INFO:
+The content of this folder has been moved into the folder "Detection_and_Tracking".
