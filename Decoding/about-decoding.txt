@@ -1,0 +1,22 @@
+3 Popular Code Types:
+
+Barcode (1D)(categories UPC, EAN)
+>Library to Generate: barcode
+>Library to Decode: zbar (zee-bar in American Eng, zed-bar in British Eng)
+Data Capacity: Low (20-30 characters)
+Reading: Required Laser in old days, but now webcam, and smartphone can be used for reading.
+
+QR Code (2D):
+>Library to Generate: qrcode
+>Library to Decode: just cv2
+Data Capacity:	High (up to 7,000+ characters for QR, ~1.1KB for PDF417)
+Reading: Webcam, and smartphone can be used for reading.
+
+PDF417 (2D):
+P-D-F four-one-seven or P-D-F four-seventeen
+>Library to Generate: pdf417gen
+>Library to Decode: ZXing (short for 'Zebra Crossing') Call it Zee-Zing (American)
+Zed-Zing (British), Zee-King, Zed-King.
+I personally call it Zee-Crossing.
+Data Capacity:	Higher (~1.1KB)
+Reading: webcam, and smartphone can be used for reading.

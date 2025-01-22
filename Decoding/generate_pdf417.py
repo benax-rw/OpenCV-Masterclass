@@ -1,5 +1,4 @@
 import pdf417gen as pdf417
-from PIL import Image
 
 # Data to encode
 data = "This is a PDF417 barcode example. It supports encoding large amounts of data."

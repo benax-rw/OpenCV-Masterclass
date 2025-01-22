@@ -2,7 +2,7 @@ import barcode
 from barcode.writer import ImageWriter
 
 # Define the data for the barcode
-data = "benax.rw"  # Example: UPC-A barcode requires 12 digits
+data = "https://benax.rw" 
 
 # Specify the barcode type (e.g., 'ean13', 'code128', 'upc', etc.)
 barcode_type = "code128"

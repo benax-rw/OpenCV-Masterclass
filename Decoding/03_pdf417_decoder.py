@@ -7,6 +7,7 @@ import os
 javase_jar = "javase-3.5.0.jar"
 core_jar = "core-3.5.0.jar"
 jcommander_jar = "jcommander-1.82.jar"
+
 barcode_image = "id-gabriel.png"
 
 # Validate required files
