@@ -1,0 +1,10 @@
+file:///app/kanji_kana_qrcode.png (format: QR_CODE, type: TEXT):
+Raw result:
+こんにちは、世界
+Parsed result:
+こんにちは、世界
+Found 3 result points.
+  Point 0: (75.0,215.0)
+  Point 1: (75.0,75.0)
+  Point 2: (215.0,75.0)
+
